@@ -24,6 +24,10 @@ C# Address Label Printing API for Windows (Peter John, 2007, LGPLv2.1) kept as a
 
 Open `AddressLabelPrinting.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005 to 2012, .NET Framework 2.0
+
 ## Attribution and provenance
 
 - **Assembly company:** UK
