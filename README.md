@@ -2,6 +2,8 @@
 
 C# Address Label Printing API for Windows (Peter John, 2007, LGPLv2.1) kept as a working copy. LabelSet is a PrintDocument that lays out Label text lines on Avery/Savemor sheet metrics; WindowsApplication1.button1 builds six sample labels (including Huggies-Nappies 40 pack) and shows PrintPreviewDialog. Open `AddressLabelPrinting.sln`. This tree is third-party source from Dave Robinson's Historical Dev archive; authorship stays with Peter John (see licence.txt and THIRD_PARTY_NOTICES.md).
 
+Working copy from my Historical Dev folder.
+
 **Source last updated:** 2013-06-13  
 **Language:** C#  
 **Target:** v2.0  
